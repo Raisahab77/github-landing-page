@@ -1,0 +1,7 @@
+.img-bg {
+    background-image: url('../assets/img/githubSideImg.png');
+    width: 100%;
+    height: auto;
+    z-index: 10;
+    /* Additional background properties */
+}
